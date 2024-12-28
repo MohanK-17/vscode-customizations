@@ -1,3 +1,16 @@
+# VSCode Customizations
+
+This guide will help you customize the appearance of Visual Studio Code using the **Custom CSS and JS Loader** extension.
+
+---
+
+### Used Extensions:
+
+- [Dracula Theme](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+- [JetBrains Icon Theme](https://marketplace.visualstudio.com/items?itemName=chadalen.vscode-jetbrains-icon-theme)
+- [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
+
+---
 # Instructions
 
 **NOTE:** Please take time to read the short documentation of **"Custom CSS and JS Loader"** for some useful tips for various operating systems to avoid issues regarding the changes not taking effect.
